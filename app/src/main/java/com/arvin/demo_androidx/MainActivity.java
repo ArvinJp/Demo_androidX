@@ -20,6 +20,8 @@ public class MainActivity extends AppCompatActivity {
         User2 user2 = new User2();
         user2.getDes();
         init(mName,mAge);
+
+
     }
 
     public void init(String args,int code)
