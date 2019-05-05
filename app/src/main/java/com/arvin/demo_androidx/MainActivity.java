@@ -22,6 +22,8 @@ public class MainActivity extends AppCompatActivity {
         init(mName,mAge);
 
 
+
+
     }
 
     public void init(String args,int code)
